@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Cricket Score</string>
+    <string name="next">NEXT</string>
+    <string name="opted_for">OPTED FOR?</string>
+    <string name="host">HOST</string>
+    <string name="teams">TEAMS</string>
+    <string name="enter_host_team">Enter host team</string>
+    <string name="visitor">VISITOR</string>
+    <string name="enter_visitor_team">Enter visitor team</string>
+    <string name="toss_won">TOSS WON?</string>
+    <string name="bat">BAT</string>
+    <string name="ball">BALL</string>
+    <string name="overs">OVERS?</string>
+    <string name="select_opening_players">SELECT OPENING PLAYERS</string>
+    <string name="opening_bowler">OPENING BOWLER</string>
+    <string name="bowler">Bowler</string>
+    <string name="ok">OK</string>
+    <string name="striker">STRIKER</string>
+    <string name="non_striker">NON-STRIKER</string>
+    <string name="start_match">START MATCH</string>
+    <string name="match_history">Match-History</string>
+    <string name="add_match">ADD MATCH</string>
+    <string name="team_stats">Team Stats</string>
+    <string name="welcome_to_ngully_cricket">Welcome to \nGully Cricket</string>
+    <string name="players">Players</string>
+    <string name="todo">TODO</string>
+    <string name="player1">Player1</string>
+    <string name="fours">Fours</string>
+</resources>

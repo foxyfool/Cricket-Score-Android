@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MatchHistory">
+
+    <RelativeLayout
+    android:layout_width="410dp"
+    android:layout_height="76dp"
+    android:background="@color/purple_700">
+
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="97dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="297dp"
+            android:layout_marginBottom="27dp"
+            android:text="@string/match_history"
+            android:textAlignment="viewEnd"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+
+    </RelativeLayout>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="218dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="500dp" />
+
+
+
+
+
+</FrameLayout>
